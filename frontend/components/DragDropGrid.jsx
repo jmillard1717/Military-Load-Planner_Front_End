@@ -1,0 +1,1 @@
+// Snapped drag-drop component with CG logic and PDF support placeholder
