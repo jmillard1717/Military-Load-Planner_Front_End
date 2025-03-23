@@ -1,0 +1,1 @@
+// PDF generation logic with html2canvas/jsPDF
